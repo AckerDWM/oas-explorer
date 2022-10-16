@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AckerDWM.github.io',
                 'git_url': 'https://github.com/AckerDWM/oas-explorer',
                 'lib_path': 'oas_explorer'},
-  'syms': {'oas_explorer.core': {'oas_explorer.core.foo': ('core.html#foo', 'oas_explorer/core.py')}}}
+  'syms': {'oas_explorer.core': {'oas_explorer.core.foo': ('structure.html#foo', 'oas_explorer/core.py')}}}
