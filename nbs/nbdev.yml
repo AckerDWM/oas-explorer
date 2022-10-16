@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "oas-explorer"
+  site-url: "https://AckerDWM.github.io/oas-explorer"
+  description: "An application for exploring Observed Antibody Space datasets"
+  repo-branch: main
+  repo-url: "https://github.com/AckerDWM/oas-explorer"
